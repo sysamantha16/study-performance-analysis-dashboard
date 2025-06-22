@@ -1,6 +1,6 @@
 # Study Performance Analysis Dashboard
 
-A Streamlit app to analyze the relationship between students' study hours and GPA. Users can upload Excel data, view descriptive stats, visualizations, and inferential statistics (correlation and hypothesis testing).
+A Streamlit app to analyze the relationship between students' study hours and GPA. You can upload Excel data, view descriptive stats, visualizations, and inferential statistics (correlation and hypothesis testing).
 
 ## How to Use
 1. Upload an Excel file with at least the following columns:
@@ -15,4 +15,4 @@ A Streamlit app to analyze the relationship between students' study hours and GP
    - Hypothesis testing results
 
 ## Live App
-[Click here to open the live Sales Dashboard](https://study-performance-analysis-dashboard-c3mmvqzhmmxwzw7j4cbch8.streamlit.app/)
+[Click here to open the live Study Performance Analysis Dashboard](https://study-performance-analysis-dashboard-c3mmvqzhmmxwzw7j4cbch8.streamlit.app/)
